@@ -3,9 +3,7 @@ TSR: This is written from my laptop
 TSR: This is from online 
 
   this is added from Hasrat zamila(online)
-<<<<<<< HEAD
-This message is added from Hasrat Zamila(PC)
+
+
 
 this is added from TSR (PC)
-=======
->>>>>>> parent of 24a1b7f... Update message.txt
